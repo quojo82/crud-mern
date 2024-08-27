@@ -20,7 +20,7 @@ mongoose
     console.log(`MongoDB connected successfully`);
 
     app.listen(PORT, () => {
-      console.log(`Server Up and Running on Port ${PORT}`);
+      console.log(`Server Up and Running on Por! ${PORT}`);
     });
   })
   .catch((err) => console.log(err));
